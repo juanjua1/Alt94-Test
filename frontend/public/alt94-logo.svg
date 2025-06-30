@@ -1,0 +1,40 @@
+<svg width="320" height="80" viewBox="0 0 320 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Alt94 Logo - Exact replica using text elements -->
+  <defs>
+    <style>
+      .logo-text { 
+        font-family: Arial, Helvetica, sans-serif; 
+        fill: #000000; 
+        font-weight: 400;
+      }
+      .logo-numbers { 
+        font-family: Arial, Helvetica, sans-serif; 
+        fill: #000000; 
+        font-weight: 700;
+      }
+    </style>
+  </defs>
+  
+  <g>
+    <!-- "a" -->
+    <text x="0" y="55" font-size="48" class="logo-text">a</text>
+    
+    <!-- "l" -->
+    <text x="32" y="55" font-size="48" class="logo-text">l</text>
+    
+    <!-- "t" -->
+    <text x="48" y="55" font-size="48" class="logo-text">t</text>
+    
+    <!-- "+" symbol -->
+    <text x="75" y="50" font-size="36" class="logo-text">+</text>
+    
+    <!-- "9" -->
+    <text x="110" y="50" font-size="60" class="logo-numbers">9</text>
+    
+    <!-- "/" -->
+    <text x="170" y="50" font-size="60" class="logo-text">/</text>
+    
+    <!-- "4" -->
+    <text x="220" y="55" font-size="48" class="logo-numbers">4</text>
+  </g>
+</svg>
