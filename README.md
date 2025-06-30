@@ -11,7 +11,7 @@ Este repositorio contiene el sistema completo dividido en dos módulos principal
 
 ## 🌐 Demo en producción
 
-👉 (https://alt94-front.vercel.app/)
+👉 (https://propiedades-alt94.vercel.app/)
 
 ---
 
