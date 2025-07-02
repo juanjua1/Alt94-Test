@@ -30,15 +30,6 @@ API RESTful que incluye autenticación JWT, gestión de usuarios y productos, co
 npm install
 ```
 
-## Configuración
-
-Crear archivo `.env` con las siguientes variables:
-
-```env
-DATABASE_URL=mongodb://localhost:27017/mi_base_de_datos
-JWT_SECRET=mi_clave_secreta_jwt
-```
-
 ## Arquitectura
 
 ```
